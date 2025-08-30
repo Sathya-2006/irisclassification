@@ -1,4 +1,4 @@
-**Iris Classification with Machine Learning**
+# Iris Classification with Machine Learning
 
 **Project Overview:**
     This project applies machine learning algorithms to classify Iris flowers into three species (Setosa, Versicolor, Virginica) based on sepal and petal measurements.The pipeline includes data preprocessing, model training, evaluation, cross-validation, and hyperparameter tuning.
