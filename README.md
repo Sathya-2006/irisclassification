@@ -27,3 +27,9 @@
       1.All models achieved high accuracy on the Iris dataset.
       2.GridSearchCV identified the best hyperparameters for SVM, Random Forest, and Decision Tree, improving performance.
       3.The Voting Classifier (Ensemble) combined multiple models for robust results.
+## Project Structure
+      irisclassification/
+      │── Iris_Classification.ipynb # Jupyter notebook with code
+      │── README.md # Project documentation
+      │── requirements.txt # Dependencies
+
